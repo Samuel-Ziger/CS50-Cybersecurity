@@ -1,0 +1,156 @@
+0
+00:00:00,000 --> 00:00:02,450
+<span id="captions-ai-generated" data-provider="openai"></span>[Este conteúdo foi traduzido usando uma ferramenta com tecnologia de IA e pode conter erros ou imprecisões]<br><br>[MÚSICA TOCANDO]
+
+1
+00:00:16,690 --> 00:00:17,780
+DAVID MALAN: Olá, mundo.
+
+2
+00:00:17,780 --> 00:00:21,280
+Meu nome é David Malan, e esta é a Introdução do CS50
+
+3
+00:00:21,280 --> 00:00:25,180
+à Cibersegurança para públicos técnicos e não técnicos.
+
+4
+00:00:25,180 --> 00:00:29,110
+Neste curso, você aprenderá como proteger suas contas, dados, sistemas,
+
+5
+00:00:29,110 --> 00:00:31,600
+e softwares contra as ameaças de hoje e como
+
+6
+00:00:31,600 --> 00:00:36,010
+reconhecer e avaliar as de amanhã também, tanto em casa quanto no trabalho.
+
+7
+00:00:36,010 --> 00:00:38,290
+Você aprenderá a preservar sua própria privacidade.
+
+8
+00:00:38,290 --> 00:00:41,230
+Você aprenderá a ver a cibersegurança não de forma absoluta,
+
+9
+00:00:41,230 --> 00:00:44,890
+mas de maneira relativa, como uma função de riscos e recompensas para um adversário
+
+10
+00:00:44,890 --> 00:00:46,990
+e de custos e benefícios para você.
+
+11
+00:00:46,990 --> 00:00:49,000
+E você aprenderá a reconhecer a cibersegurança
+
+12
+00:00:49,000 --> 00:00:51,820
+como um balanço com a própria usabilidade.
+
+13
+00:00:51,820 --> 00:00:55,900
+No mundo da cibersegurança, ouso dizer que você e eu precisamos ser perfeitos.
+
+14
+00:00:55,900 --> 00:00:59,770
+Todas as nossas portas, todas as nossas janelas, por assim dizer, devem estar trancadas.
+
+15
+00:00:59,770 --> 00:01:02,740
+Mas um adversário só precisa encontrar um único erro que cometemos—
+
+16
+00:01:02,740 --> 00:01:05,410
+um único detalhe, seja uma porta ou uma janela mal fechada.
+
+17
+00:01:05,410 --> 00:01:09,110
+Portanto, talvez devêssemos nos concentrar não apenas na prevenção, mas também na detecção
+
+18
+00:01:09,110 --> 00:01:11,410
+especialmente, por meio de auditoria, por meio de monitoramento,
+
+19
+00:01:11,410 --> 00:01:15,280
+para que, mesmo que um adversário consiga entrar, possamos ao menos detectar isso rapidamente
+
+20
+00:01:15,280 --> 00:01:19,760
+e minimizar as desvantagens para nós e, consequentemente, as vantagens para eles.
+
+21
+00:01:19,760 --> 00:01:23,180
+Talvez, nos dias de hoje, ferramentas como inteligência artificial ou IA
+
+22
+00:01:23,180 --> 00:01:26,570
+possam até ajudar com isso, detectando padrões e os comportamentos potenciais de adversários
+
+23
+00:01:26,570 --> 00:01:29,420
+que talvez nem mesmo percebamos.
+
+24
+00:01:29,420 --> 00:01:32,810
+E talvez, se elevamos o padrão suficientemente para o adversário,
+
+25
+00:01:32,810 --> 00:01:36,890
+aumentando seus custos, seus riscos, diminuindo sua recompensa potencial,
+
+26
+00:01:36,890 --> 00:01:39,680
+eles simplesmente perderão o interesse em nos mirar como alvo.
+
+27
+00:01:39,680 --> 00:01:42,090
+Claro, se eles tiverem mais recursos do que nós,
+
+28
+00:01:42,090 --> 00:01:44,150
+eles poderão vencer de qualquer forma.
+
+29
+00:01:44,150 --> 00:01:46,370
+Mas será que eles estarão interessados em nós?
+
+30
+00:01:46,370 --> 00:01:49,100
+Com quais dessas ameaças devemos realmente nos preocupar?
+
+31
+00:01:49,100 --> 00:01:52,940
+Ao longo deste curso, apresentaremos exemplos tanto de alto nível quanto de baixo nível
+
+32
+00:01:52,940 --> 00:01:57,620
+de ameaças e forneceremos tudo o que você precisa tecnicamente para entender ambos,
+
+33
+00:01:57,620 --> 00:02:01,010
+mesmo que você não seja um programador ou uma pessoa de informática.
+
+34
+00:02:01,010 --> 00:02:04,580
+Por meio desses exemplos, apresentaremos certos princípios fundamentais,
+
+35
+00:02:04,580 --> 00:02:08,360
+como os próprios computadores funcionam, para que você possa compreender e deduzir,
+
+36
+00:02:08,360 --> 00:02:12,590
+mesmo após o término do curso, como outras ameaças que o mundo talvez ainda não
+
+37
+00:02:12,590 --> 00:02:15,450
+tenha sequer visto, realmente funcionam.
+
+38
+00:02:15,450 --> 00:02:20,560
+Esta é a Introdução à Cibersegurança do CS50.
+
